@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Big Data Software Development Engineer Intern"
-  department = 'IAGS/OTC/HPDA'
+  department = "IAGS/OTC/HPDA"
   company = "Intel Asia-Pafic R&D Ltd"
   company_url = ""
   location = "Shanghai, China"
