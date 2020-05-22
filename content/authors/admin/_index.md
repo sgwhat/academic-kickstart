@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Ge Song is an undergraduate student in the Department of Information Management and Information System of Nanjing University, and he is going to be a Master of Science in Information Technology student at HKUST. His interests include Distributed System, High-Performance Computing and Data Mining. Ge Song worked as a Big Data Software Development Engineer Intern at Intel Asia-Pacific R&D Ltd. He developed projects for Apache-Spark, Intel-MKL&DAAL and Databricks during his internship.
+Ge Song is an undergraduate student in the Department of Information Management and Information System of Nanjing University, and he is going to be a Master of Science in Computer Science and Information Technology student at HKUST. His interests include Distributed System, High-Performance Computing and Data Mining. Ge Song worked as a Big Data Software Development Engineer Intern at Intel Asia-Pacific R&D Ltd. He developed projects for Apache-Spark, Intel-MKL&DAAL and Databricks during his internship.
